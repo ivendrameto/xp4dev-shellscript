@@ -1,0 +1,3 @@
+vamos simular aqui o conteúdo do outro arquivo
+outro linha 1 
+outro linha 2

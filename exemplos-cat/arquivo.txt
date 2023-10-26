@@ -1,0 +1,4 @@
+Esse é o arquivos: arquivo.txt
+conteúdo 1
+conteúdo 2
+conteúdo 3
